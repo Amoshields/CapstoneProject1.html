@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset=" UTF-8">
+        <title>My Resume</title>
+    </head>
+    <body>
+        <h1>Abby O'Shields</h1>
+        <hr />
+        <h2>Objective</h2>
+           <p>My name is Abby O'Shields and I reside in upsate SC. I'm a highly organized, disciplined, and creative individual who
+            prioritizes healthy communication and time management. I have gained a variety of skills through my experience interacting
+            and serving the public, as well as learning to adapt to business specific software.</p>
+            As a web developer, it is very important to be ready and willing to expand my knowledge when met with obstacles.
+            By prioritizing communication and cultivating relationships with my clients, I am dedicated to bringing to life 
+            their vision through thourough and detailed oriented work. </p>
+        <hr />
+
+        <h2>Education</h2>
+           <ul>
+            <li>Easley High School Diploma-Class of 2018</li>
+            <li>Web Development Bootcamp- Dr. Angela Yu</li>
+           </ul>
+        <hr />
+        <h2>Work Experience</h2>
+           <ul>
+            <li>04/2026</li> Capstone Project</li>
+            <li>04/2026</li>Farmhosue Deli Business Website</li>
+            <li>04/2024-Present</li>Butterfly Wellness Yoga Center for Healing Arts- Administrative Manager</li>
+                <ul>
+                    <li>Assist in design and development of business website.<a href="https://www.butterflywellnessyoga.com/"><img src="BW Black LOGO (1).jpg" height="100" alt="butterfly wellness logo link"/></a>
+                    <li>Expertise and ability to utilize multiple POS software systems for business efficiency.</li>
+                    <li>Design and create graphic digital designs for marketing operations.</li>
+                    <li>Maintain consistent customer communications and and community engagement, creating 
+                        relationships to ensure a safe and comfortable environment for all clients and visitors. </li>
+                    <li>Inputing data into spreadsheets for uses such as payroll for multiple 1099 contactors and employees.</li>
+                </ul> 
+           </ul>
+        <hr />
+        <h2>Skills</h2>
+           <ul>
+              <li>MINDBODY Software</li>
+              <li>CANVA Designs</li>
+              <li>SquareSpace and Square Appointments</li>
+           </ul>
+        <hr />
+        <img src="Profilepic.jpg" height=200 alt="profile picture of Abby O'Shields"/>
+        <hr />
+    </body>
+    <footer>
+        <address>
+            <a href="mailto:amoshields1102@gmail.com">Email Me</a><br />
+            <a href="tel:+86435519753">Call/Text Me</a>
+        </address>
+    </footer>
+</html>
